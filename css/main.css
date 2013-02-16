@@ -9,7 +9,7 @@ body {
   padding-bottom: 40px;
 }
 .fb-comments, .fb-comments iframe[style] {width: 100% !important;}
-
+.fb-comments, .fb-comments span {width: 100% !important;}
 
 
 
