@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Michael Schwanzer -- Founder -- @mschwanzer
 
 # THANKS
 
-    <name>
+    Jane
 
 # TECHNOLOGY COLOPHON
 
